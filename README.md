@@ -4,6 +4,8 @@ A static, in-depth **web application penetration testing & red teaming pocketboo
 
 Nothing here runs scans or contacts a target. Every command and payload is plain reference text meant to be copied into your own tooling.
 
+**Live site:** [https://vonisok.github.io/webpen/](https://vonisok.github.io/webpen/)
+
 ## What’s inside
 
 | Section | Contents |
